@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spectr": {
+      "type": "http",
+      "url": "https://mcp.spectr.pm/mcp"
+    }
+  }
+}

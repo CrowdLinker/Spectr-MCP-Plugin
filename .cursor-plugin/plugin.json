@@ -1,0 +1,18 @@
+{
+  "name": "spectr",
+  "displayName": "Spectr",
+  "version": "1.0.0",
+  "description": "Read and act on your Spectr requirements, spec sheets and stories: the client meetings behind your work, in the editor.",
+  "author": {
+    "name": "Crowdlinker"
+  },
+  "publisher": "Crowdlinker",
+  "homepage": "https://spectr.pm/docs/mcp/",
+  "repository": "https://github.com/CrowdLinker/Spectr-MCP-Plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["spectr", "requirements", "spec sheets", "stories", "meetings", "project management", "mcp"],
+  "category": "integrations",
+  "tags": ["spectr", "requirements", "stories", "mcp"],
+  "mcpServers": "./mcp.json"
+}
